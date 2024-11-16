@@ -1,3 +1,4 @@
+## DATE : 30.09.2024
 ## Ex.No:7 Develop an android application to display the country name with image using list view in android studio.
 ## AIM:
 To create and develop the application to display the place name with image using list view in android studio
@@ -136,4 +137,4 @@ public class MainActivity extends AppCompatActivity {
 ![Screenshot 2024-10-05 140526](https://github.com/user-attachments/assets/f31c1d4e-50a3-4af7-b32d-1da491a5cd64)
 
 ## RESULT
-Thus a Simple Android Application to create and develop the application to display the country name with image using list view in android studio is developed and executed successfully
+Thus a Simple Android Application to create and develop the application to display the country name with image using list view in android studio is developed and executed successfully .
